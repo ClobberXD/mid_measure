@@ -6,6 +6,9 @@ The calculations are performed right after pos2 has been marked, and if auto-res
 
 Partly inspired by [Minetest-WorldEdit](https://github.com/Uberi/Minetest-WorldEdit)
 
+#### Screenshot
+![Screenshot](https://raw.githubusercontent.com/ClobberXD/mid_measure/master/screenshot.png)
+
 #### License: MIT
 
 #### Mod Dependencies: default (optional; see below)
