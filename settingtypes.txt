@@ -1,2 +1,2 @@
-mid_measure.auto_reset (Auto-reset duration [disabled if =0]) int 30 0 3600
-mid_measure.enable_crafting (Enable crafting of marker [requires default]) bool false
+mid_measure.auto_reset (Auto-reset duration) int 30 0 3600
+mid_measure.enable_crafting (Enable crafting of marker) bool false
